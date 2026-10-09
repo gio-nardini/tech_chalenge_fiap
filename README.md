@@ -13,8 +13,11 @@
 ### Integrantes
 
 | Nome completo | RM | E-mail |
+
 | Giovanna Nardini | 377816 | giovanna.nardini@bb.com.br |
+
 | Karla Orquiza | 377794 | karlagaby_cr@yahoo.com.br |
+
 | Maysa Guimarães | 377777 | maysa.guimaraes@bb.com.br |
 
 ## 2. Links da entrega
