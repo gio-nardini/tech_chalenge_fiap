@@ -1,29 +1,19 @@
 # Tech Challenge — Fase 2 | POSTECH Data Analytics
 
-> **INSTRUÇÕES:** este README é um template. Substitua **todos** os blocos marcados com
-> `<!-- PREENCHER -->` e apague as linhas de instrução antes de submeter.
-
 ---
 
 ## 1. Identificação
 
-| Campo | Valor |
-|---|---|
-| Turma | <!-- PREENCHER: ex. 12DTAT --> |
-| Grupo | <!-- PREENCHER: ex. Grupo 07 --> |
-| Data de entrega | <!-- PREENCHER: DD/MM/AAAA --> |
+| Turma | 2DTATBB |
+| Grupo | 44 |
+| Data de entrega | 10/10/2026 |
 
 ### Integrantes
 
 | Nome completo | RM | E-mail |
-|---|---|---|
-| <!-- PREENCHER --> | RM000000 | |
-| | | |
-| | | |
-| | | |
-| | | |
-
----
+| Giovanna Nardini | 377816 | giovanna.nardini@bb.com.br |
+| Karla Orquiza | 377794 | karlagaby_cr@yahoo.com.br |
+| Maysa Guimarães | 377777 | maysa.guimaraes@bb.com.br |
 
 ## 2. Links da entrega
 
@@ -32,11 +22,8 @@ Estes três links são **obrigatórios** e devem ser idênticos aos do PDF de su
 | Item | Link |
 |---|---|
 | Repositório | <!-- PREENCHER: URL pública do GitHub --> |
-| Vídeo executivo (≤ 5 min) | <!-- PREENCHER: YouTube não listado / Drive com acesso liberado --> |
-| Apresentação | <!-- PREENCHER: link do arquivo em `docs/` ou Drive --> |
-
-> ⚠️ Repositório privado ou inacessível inviabiliza a avaliação da entrega.
-> Confira o acesso em uma janela anônima antes de enviar.
+| Vídeo executivo (≤ 5 min) | https://drive.google.com/file/d/1XfrhRSGsGGNJDjIXlKwVaMvk9_ywRYZV/view?usp=sharing |
+| Apresentação | https://drive.google.com/file/d/1uYgcEJVekQYqYco-SJawyPbfrgX1LVLF/view?usp=sharing |
 
 ---
 
